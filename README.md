@@ -1,7 +1,6 @@
-## SHRP 12.1 Manifest (WIP)
-![SHRP](banner.png)
+![SHRP-Reborn](banner.png)
 
 ---------------
 
 
-### [Guide](https://shrp.github.io/#/guide) to Build SHRP
+### [Guide](https://shrp-reborn.github.io/#/guide) to Build SHRP Reborn
