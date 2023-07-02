@@ -1,6 +1,6 @@
-![SHRP](banner.png)
+![SHRP-Reborn](banner.png)
 
 ---------------
 
 
-### [Guide](https://shrp.github.io/#/guide) to Build SHRP
+### [Guide](https://shrp-reborn.github.io/#/guide) to Build SHRP Reborn
