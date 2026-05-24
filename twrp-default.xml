@@ -62,6 +62,9 @@
     <!-- Include external Magisk repo for repack binaries -->
     <project path="external/magisk-prebuilt" name="external_magisk-prebuilt" remote="TeamWin" revision="android-12.1"/>
 
+    <!-- Include for zip support -->
+    <project path="external/zip" name="android_external_zip" remote="TeamWin" revision="android-12.1"/>
+
     <!-- Include external/bash for bash support -->
     <project path="external/bash" name="android_external_bash" remote="LineageOS" revision="lineage-19.1"/>
 
